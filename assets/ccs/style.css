@@ -1,0 +1,16 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+.logo {
+  width: 2rem;
+}
+.bg-black {
+  background-color: black;
+}
+.foto-card {
+  max-height: 150px;
+}
+
+.card-text {
+  max-height: 3rem;
+}
